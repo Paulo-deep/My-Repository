@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cores em CSS</title>
+    <link rel="stylesheet" href="stylle.css">
+</head>
+
+<body>
+    <main>
+        <h1>Texto Centralizado</h1>
+
+        <p>Este site está sendo criado no intuito de servir para treinamento, de certa forma, vou tentar aplicar tudo
+            estou aprendendo á ele!</p>
+
+        <p>Portanto, ele será usado de varias formas e com vários conteudos diferentes</p>
+        <h2 style="text-align: center;">Titulo 2</h2>
+        <p>sem conteúdo </p>
+            
+    </main>
+
+</body>
+
+</html>
